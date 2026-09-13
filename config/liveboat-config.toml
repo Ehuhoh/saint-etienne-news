@@ -9,7 +9,7 @@ site_path = "/saint-etienne-news/"
 title = "Saint Etienne news"
 # Update site url if you're planning on using aggregated OPML
 # channel Liveboat exposes.
-site_url = "https://mi-usuario.github.io/saint-etienne-news"
+site_url = "https://Ehuhoh.github.io/saint-etienne-news"
 # Maximum number of days for which Liveboat will include
 # articles for.
 time_threshold = 40
